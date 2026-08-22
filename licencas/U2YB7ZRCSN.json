@@ -1,10 +1,10 @@
 {
   "license_id": "U2YB7ZRCSN",
-  "status": "active",
+  "status": "revoked",
   "created_at": "2026-08-22",
   "expires_at": "2026-09-21",
   "version": 1,
   "installation_id": null,
   "dono": "",
-  "signature": "41b9M9apKTpyX4tlqIUOp5CRRq8lZTEmuClI3+zRudvnaefww5xegd7OrhQglYI9cD1h7QeY7R+lHJFBPqtmCQ=="
+  "signature": "AwNZnOsAgo8cKemXdvqbtlF2hBuZlEAYSADj4WpqkyQBbOtdqACb1IGYeyika88GagOHhTP4YQ23kbjnC+KQBg=="
 }
