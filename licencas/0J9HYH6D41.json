@@ -1,10 +1,10 @@
 {
   "license_id": "0J9HYH6D41",
-  "status": "active",
+  "status": "revoked",
   "created_at": "2026-08-22",
   "expires_at": "2026-08-29",
   "version": 1,
   "installation_id": null,
   "dono": "Teste Fase 1B",
-  "signature": "aeEYhurP6tfy2xGMO/YKfGVd9x8f4T8LU5/ALMahuOY5dTydsidj9sOFQS2CbEE1oswiM8dOM4e55PebKA3hDQ=="
+  "signature": "aUoHPAjybXlPN75Y2sAcRKdhVQOgEbi4uqEk0hqQIuOQ8ZJkPn5vFeUOyc6S1Z4mxgBlac64Ct0TJtFX+WeDAw=="
 }
