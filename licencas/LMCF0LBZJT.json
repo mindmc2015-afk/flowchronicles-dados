@@ -1,10 +1,10 @@
 {
   "license_id": "LMCF0LBZJT",
-  "status": "active",
+  "status": "revoked",
   "created_at": "2026-08-22",
   "expires_at": "2026-09-21",
   "version": 1,
   "installation_id": null,
   "dono": "",
-  "signature": "GJsamXRAbHZkiTPzAFYwYmBekQfR/ah7F7cxbqg4dmBF7X0v6G6DAundURrB834xXEsDv7D7zegQofF5CLkhDg=="
+  "signature": "tsCAEpKn2kI+EamOHXKTJK0P04BJVJCdUOOC07s2BykTiKhP9adDgbnnkqINz5amP/8T+OOPsBqweVyh3uslCg=="
 }
